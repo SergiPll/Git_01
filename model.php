@@ -1,4 +1,0 @@
-<?php
-//Modificar Model
-
-?>
